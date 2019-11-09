@@ -1,2 +1,2 @@
 # hello-world
-First warehouse
+The first time I came to GitHub, I'm on thin ice now.
